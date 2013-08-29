@@ -1,0 +1,101 @@
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BOTTOM.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BRAKDISC.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO MIRROR NORMAL.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO MIRROR.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO NORMAL.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\CARBON.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE MASK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER CUTOUT.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\plate.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING MASK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING NORMAL.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BRAKELIGHT.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT GLASS.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT MASK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 INTERIOR.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC MIRROR.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE NORMAL.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE BUMP.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIREBACK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD BUMP.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WDEFROST.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW FRONT MASK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW FRONT.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW MASK.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\road.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\cloudMap.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\road2.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap2.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\grass.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap3.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmapOv.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap4.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap5.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap6.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\flatheightmap.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Fifth.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_First.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Fourth.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Neutral.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Reverse.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Second.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Third.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\RevBG.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\RevCount.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap7.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\dome.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\EFFECT\m_effects.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\FONT\GameFont.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\FONT\LargeGameFont.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeCurveMajor.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeCurveMinor.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeMajor.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeMinor.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear1.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear1ToGear2.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear2.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear2ToGear3.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear3.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear3ToGear4.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear4.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear4ToGear5.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear5.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\plate_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BRAKELIGHT_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BOTTOM_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC MIRROR_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BRAKDISC_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 INTERIOR_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\cloudMap_0.xnb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Exia.xgs
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Engine.xwb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\EngineSoundBank.xsb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\ExiaProject.exe
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\ExiaProject.pdb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\ExiaProject.exe
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\ExiaProject.pdb
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\ExiaProject.exe.manifest
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\ExiaProject.application
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\ExiaProject.exe.manifest
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\obj\x86\Debug\ExiaProject.application

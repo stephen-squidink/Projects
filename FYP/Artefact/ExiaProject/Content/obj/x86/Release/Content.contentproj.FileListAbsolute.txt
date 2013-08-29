@@ -1,0 +1,2 @@
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chan\Desktop\ExiaProject\ExiaProject\Content\obj\x86\Release\SOUND\Exia.xml

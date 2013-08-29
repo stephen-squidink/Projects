@@ -1,0 +1,3 @@
+Content\SOUND\Exia.xgs
+Content\SOUND\Engine.xwb
+Content\SOUND\EngineSoundBank.xsb

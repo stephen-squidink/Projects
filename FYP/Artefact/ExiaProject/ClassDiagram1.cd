@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical">
+  <Class Name="ExiaProject.com.exia.commands.AccelerationCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\AccelerationCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.AngularAccelerationCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\AngularAccelerationCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.AngularOrintationCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\AngularOrintationCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.AngularVelocityCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\AngularVelocityCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.BrakeForceCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\BrakeForceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.DisplacementCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\DisplacementCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.DragForceCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\DragForceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.ForceCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\ForceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.ForceLateralCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\ForceLateralCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.RollingResistanceCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\RollingResistanceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.RPMCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\RPMCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.TorqueCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\TorqueCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.TractionForceCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\TractionForceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.VelocityCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\VelocityCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.commands.WeightTransferCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="12.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\commands\WeightTransferCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExiaProject.com.exia.core.PhysicsManager" Collapsed="true">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAEAQDAAAABAAAmACBEAAAQBAAAAEAAA=</HashCode>
+      <FileName>com\exia\core\PhysicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.exia.core.PhysicsObject" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAgTAAQIMACAAQAgAAFwAQIAECwCAABAAQgQAAAAE=</HashCode>
+      <FileName>com\exia\core\PhysicsObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.exia.objects.Specification" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABQBABACAAAIgAIAAqAgACABAgGFAAAAIAACEAAA=</HashCode>
+      <FileName>com\exia\objects\Specification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.exia.util.PhysicsConstants" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAQAAAAAAAAAJAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\util\PhysicsConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.exia.util.UnitConverter" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAABAAAAAAAAABAAAAAAAAAAQAAAE=</HashCode>
+      <FileName>com\exia\util\UnitConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.camera.Camera" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAEAAAAAAABCCAAAQAAAgAQEAhA=</HashCode>
+      <FileName>com\game\camera\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.camera.ChaseCamera" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAAAAAAEAAQAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>com\game\camera\ChaseCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.camera.FreeCam" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAEAAAAAAACAAAAAAABAAAAEBAA=</HashCode>
+      <FileName>com\game\camera\FreeCam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.camera.StationaryCamera" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>com\game\camera\StationaryCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.core.SoundManager" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAIAAAAAIAAAAAAAQAAAAAAAAAJCA=</HashCode>
+      <FileName>com\game\core\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.input.SWInput" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAEAAAAA=</HashCode>
+      <FileName>com\game\input\SWInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.input.SWInputStates" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAABAAAAAAFgCIAAIBAAAQAAAAAAKAAAA=</HashCode>
+      <FileName>com\game\input\SWInputStates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.objects.CarObject" Collapsed="true">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAAAAAAAAAEAAEAgAAAAAAggAAAABAAAAAWBBA=</HashCode>
+      <FileName>com\game\objects\CarObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.objects.ColoredTerrain" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAQAAAAAAAAAUAAAAAJgABAQIgAAAgAAAAoUIAA=</HashCode>
+      <FileName>com\game\objects\ColoredTerrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.objects.SkyDome" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>com\game\objects\SkyDome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.com.game.objects.Terrain" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAASAAAAAAAAAUAAAAAAgABAQIgAAAgAAAAoUIAA=</HashCode>
+      <FileName>com\game\objects\Terrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.Game1" Collapsed="true">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAwAEgASAAAgAwAAAAAAAAQJQASCAAgBBpAAACARAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExiaProject.Program" Collapsed="true">
+    <Position X="1.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ExiaProject.com.game.camera.ViewTransformations" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\game\camera\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExiaProject.com.game.objects.VertexPositionNormalColored" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAgAAAAgAAAAAAIAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>com\game\objects\ColoredTerrain.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExiaProject.com.game.primitive.VertexPositionNormal" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAgAAAAgAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\game\primitive\VertexPositionNormal.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ExiaProject.com.exia.core.IExiaCommand">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>com\exia\core\IExiaCommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MODEL\SL500\BOTTOM.tga</Source>
+      <Name>MODEL\SL500\BOTTOM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BOTTOM.xnb</Output>
+      <Time>2010-03-16T18:52:55.3267443+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BRAKDISC.tga</Source>
+      <Name>MODEL\SL500\BRAKDISC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BRAKDISC.xnb</Output>
+      <Time>2010-03-16T18:52:55.3807474+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BREMBO MIRROR NORMAL.tga</Source>
+      <Name>MODEL\SL500\BREMBO MIRROR NORMAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO MIRROR NORMAL.xnb</Output>
+      <Time>2010-03-16T18:52:55.3957482+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BREMBO MIRROR.tga</Source>
+      <Name>MODEL\SL500\BREMBO MIRROR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO MIRROR.xnb</Output>
+      <Time>2010-03-16T18:52:55.4277501+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BREMBO NORMAL.tga</Source>
+      <Name>MODEL\SL500\BREMBO NORMAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO NORMAL.xnb</Output>
+      <Time>2010-03-16T18:52:55.4417509+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BREMBO.tga</Source>
+      <Name>MODEL\SL500\BREMBO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BREMBO.xnb</Output>
+      <Time>2010-03-16T18:52:55.4767529+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\CARBON.tga</Source>
+      <Name>MODEL\SL500\CARBON</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\CARBON.xnb</Output>
+      <Time>2010-03-16T18:52:55.4957539+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DOORLINE MASK.tga</Source>
+      <Name>MODEL\SL500\DOORLINE MASK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE MASK.xnb</Output>
+      <Time>2010-03-16T18:52:55.5047545+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DOORLINE.tga</Source>
+      <Name>MODEL\SL500\DOORLINE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE.xnb</Output>
+      <Time>2010-03-16T18:52:55.5117549+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DRIVER CUTOUT.tga</Source>
+      <Name>MODEL\SL500\DRIVER CUTOUT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER CUTOUT.xnb</Output>
+      <Time>2010-03-16T18:52:55.5167551+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DRIVER.tga</Source>
+      <Name>MODEL\SL500\DRIVER</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER.xnb</Output>
+      <Time>2010-03-16T18:52:55.5347562+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\plate.tga</Source>
+      <Name>MODEL\SL500\plate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\plate.xnb</Output>
+      <Time>2010-03-16T18:52:55.5507571+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BADGING MASK.tga</Source>
+      <Name>MODEL\SL500\SL500 BADGING MASK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING MASK.xnb</Output>
+      <Time>2010-03-16T18:52:55.5587576+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BADGING NORMAL.tga</Source>
+      <Name>MODEL\SL500\SL500 BADGING NORMAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING NORMAL.xnb</Output>
+      <Time>2010-03-16T18:52:55.5737584+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BADGING.tga</Source>
+      <Name>MODEL\SL500\SL500 BADGING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING.xnb</Output>
+      <Time>2010-03-16T18:52:55.5877592+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BRAKELIGHT.tga</Source>
+      <Name>MODEL\SL500\SL500 BRAKELIGHT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BRAKELIGHT.xnb</Output>
+      <Time>2010-03-16T18:52:55.5897593+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 HEADLIGHT GLASS.tga</Source>
+      <Name>MODEL\SL500\SL500 HEADLIGHT GLASS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT GLASS.xnb</Output>
+      <Time>2010-03-16T18:52:55.5917594+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 HEADLIGHT MASK.tga</Source>
+      <Name>MODEL\SL500\SL500 HEADLIGHT MASK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT MASK.xnb</Output>
+      <Time>2010-03-16T18:52:55.6167609+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 HEADLIGHT.tga</Source>
+      <Name>MODEL\SL500\SL500 HEADLIGHT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT.xnb</Output>
+      <Time>2010-03-16T18:52:55.6377621+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 INTERIOR.tga</Source>
+      <Name>MODEL\SL500\SL500 INTERIOR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 INTERIOR.xnb</Output>
+      <Time>2010-03-16T18:52:55.6827646+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 MISC MIRROR.tga</Source>
+      <Name>MODEL\SL500\SL500 MISC MIRROR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC MIRROR.xnb</Output>
+      <Time>2010-03-16T18:52:55.6987656+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 MISC.tga</Source>
+      <Name>MODEL\SL500\SL500 MISC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC.xnb</Output>
+      <Time>2010-03-16T18:52:55.7187667+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 TIRE NORMAL.tga</Source>
+      <Name>MODEL\SL500\SL500 TIRE NORMAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE NORMAL.xnb</Output>
+      <Time>2010-03-16T18:52:55.7357677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 TIRE.tga</Source>
+      <Name>MODEL\SL500\SL500 TIRE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE.xnb</Output>
+      <Time>2010-03-16T18:52:55.7747699+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TIRE BUMP.tga</Source>
+      <Name>MODEL\SL500\TIRE BUMP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE BUMP.xnb</Output>
+      <Time>2010-03-16T18:52:55.8647751+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TIRE.tga</Source>
+      <Name>MODEL\SL500\TIRE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE.xnb</Output>
+      <Time>2010-03-16T18:52:55.9027772+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TIREBACK.tga</Source>
+      <Name>MODEL\SL500\TIREBACK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIREBACK.xnb</Output>
+      <Time>2010-03-16T18:52:55.9177781+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TREAD BUMP.tga</Source>
+      <Name>MODEL\SL500\TREAD BUMP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD BUMP.xnb</Output>
+      <Time>2010-03-16T18:52:55.9207783+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TREAD.tga</Source>
+      <Name>MODEL\SL500\TREAD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD.xnb</Output>
+      <Time>2010-03-16T18:52:55.9327789+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\WDEFROST.tga</Source>
+      <Name>MODEL\SL500\WDEFROST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WDEFROST.xnb</Output>
+      <Time>2010-03-16T18:52:55.9357791+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\WINDOW FRONT MASK.tga</Source>
+      <Name>MODEL\SL500\WINDOW FRONT MASK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW FRONT MASK.xnb</Output>
+      <Time>2010-03-16T18:52:55.9647808+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\WINDOW FRONT.tga</Source>
+      <Name>MODEL\SL500\WINDOW FRONT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW FRONT.xnb</Output>
+      <Time>2010-03-16T18:52:56.0577861+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\WINDOW MASK.tga</Source>
+      <Name>MODEL\SL500\WINDOW MASK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\WINDOW MASK.xnb</Output>
+      <Time>2010-03-16T18:52:56.0597862+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\road.jpg</Source>
+      <Name>TEXTURE\road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\road.xnb</Output>
+      <Time>2010-03-16T18:53:21.0182137+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\DOME\cloudMap.jpg</Source>
+      <Name>MODEL\DOME\cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\cloudMap.xnb</Output>
+      <Time>2010-03-16T19:03:18.1403672+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\road2.jpg</Source>
+      <Name>TEXTURE\road2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\road2.xnb</Output>
+      <Time>2010-03-16T19:11:06.2141395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap.jpg</Source>
+      <Name>TEXTURE\heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap.xnb</Output>
+      <Time>2010-03-19T21:53:58.0389512+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap2.jpg</Source>
+      <Name>TEXTURE\heightmap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap2.xnb</Output>
+      <Time>2010-03-19T22:11:10.9600309+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\grass.dds</Source>
+      <Name>TEXTURE\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\grass.xnb</Output>
+      <Time>2010-03-19T22:22:57.7994598+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap3.jpg</Source>
+      <Name>TEXTURE\heightmap3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap3.xnb</Output>
+      <Time>2010-03-20T15:30:35.9781059+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmapOv.jpg</Source>
+      <Name>TEXTURE\heightmapOv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmapOv.xnb</Output>
+      <Time>2010-03-24T21:23:04.5080863+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap4.jpg</Source>
+      <Name>TEXTURE\heightmap4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap4.xnb</Output>
+      <Time>2010-03-24T22:36:20.0394963+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap5.jpg</Source>
+      <Name>TEXTURE\heightmap5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap5.xnb</Output>
+      <Time>2010-03-24T22:42:52.0469178+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap6.jpg</Source>
+      <Name>TEXTURE\heightmap6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap6.xnb</Output>
+      <Time>2010-03-24T22:46:43.0191287+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\flatheightmap.jpg</Source>
+      <Name>TEXTURE\flatheightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\flatheightmap.xnb</Output>
+      <Time>2010-04-04T19:10:02.1200611+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Fifth.png</Source>
+      <Name>SPRITES\Gear_Fifth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Fifth.xnb</Output>
+      <Time>2010-04-12T22:05:53.7168535+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_First.png</Source>
+      <Name>SPRITES\Gear_First</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_First.xnb</Output>
+      <Time>2010-04-12T22:05:53.7198537+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Fourth.png</Source>
+      <Name>SPRITES\Gear_Fourth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Fourth.xnb</Output>
+      <Time>2010-04-12T22:05:53.7238539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Neutral.png</Source>
+      <Name>SPRITES\Gear_Neutral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Neutral.xnb</Output>
+      <Time>2010-04-12T22:05:53.7278541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Reverse.png</Source>
+      <Name>SPRITES\Gear_Reverse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Reverse.xnb</Output>
+      <Time>2010-04-12T22:05:53.7318544+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Second.png</Source>
+      <Name>SPRITES\Gear_Second</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Second.xnb</Output>
+      <Time>2010-04-12T22:05:53.7348545+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\Gear_Third.png</Source>
+      <Name>SPRITES\Gear_Third</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\Gear_Third.xnb</Output>
+      <Time>2010-04-12T22:05:53.7388548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\RevBG.png</Source>
+      <Name>SPRITES\RevBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\RevBG.xnb</Output>
+      <Time>2010-04-12T22:42:15.0366179+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPRITES\RevCount.png</Source>
+      <Name>SPRITES\RevCount</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SPRITES\RevCount.xnb</Output>
+      <Time>2010-04-12T22:42:15.0406181+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TEXTURE\heightmap7.jpg</Source>
+      <Name>TEXTURE\heightmap7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\TEXTURE\heightmap7.xnb</Output>
+      <Time>2010-04-19T04:47:02.5737315+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500.X</Source>
+      <Name>MODEL\SL500\SL500</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500.xnb</Output>
+      <Time>2010-03-16T18:52:55.8067717+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\MODEL\SL500\SL500_0.xml</Key>
+        <Value>2010-04-25T20:40:35.953151+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\plate_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BRAKELIGHT_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BOTTOM_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC MIRROR_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BRAKDISC_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 INTERIOR_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE_0.xnb</Request>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>MODEL\DOME\dome.x</Source>
+      <Name>MODEL\DOME\dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\dome.xnb</Output>
+      <Time>2010-03-16T18:53:36.0730748+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\MODEL\DOME\dome_0.xml</Key>
+        <Value>2010-04-25T20:40:40.7294242+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>EFFECT\m_effects.fx</Source>
+      <Name>EFFECT\m_effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\EFFECT\m_effects.xnb</Output>
+      <Time>2010-03-16T18:54:04.625708+00:00</Time>
+    </Item>
+    <Item>
+      <Source>FONT\GameFont.spritefont</Source>
+      <Name>FONT\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\FONT\GameFont.xnb</Output>
+      <Time>2010-04-12T19:58:35.3939664+01:00</Time>
+    </Item>
+    <Item>
+      <Source>FONT\LargeGameFont.spritefont</Source>
+      <Name>FONT\LargeGameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\FONT\LargeGameFont.xnb</Output>
+      <Time>2010-04-12T19:58:38.0111161+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\BrakeCurveMajor.wav</Source>
+      <Name>SOUND\BrakeCurveMajor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeCurveMajor.xnb</Output>
+      <Time>2010-04-19T05:09:11.7407555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\BrakeCurveMinor.wav</Source>
+      <Name>SOUND\BrakeCurveMinor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeCurveMinor.xnb</Output>
+      <Time>2010-04-19T05:09:11.7417555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\BrakeMajor.wav</Source>
+      <Name>SOUND\BrakeMajor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeMajor.xnb</Output>
+      <Time>2010-04-19T05:09:11.7817578+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\BrakeMinor.wav</Source>
+      <Name>SOUND\BrakeMinor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\BrakeMinor.xnb</Output>
+      <Time>2010-04-19T05:09:11.7827579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear1.wav</Source>
+      <Name>SOUND\Gear1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear1.xnb</Output>
+      <Time>2010-04-19T05:09:11.802759+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear1ToGear2.wav</Source>
+      <Name>SOUND\Gear1ToGear2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear1ToGear2.xnb</Output>
+      <Time>2010-04-19T05:09:11.8047591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear2.wav</Source>
+      <Name>SOUND\Gear2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear2.xnb</Output>
+      <Time>2010-04-19T05:09:11.8067592+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear2ToGear3.wav</Source>
+      <Name>SOUND\Gear2ToGear3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear2ToGear3.xnb</Output>
+      <Time>2010-04-19T05:09:11.8407612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear3.wav</Source>
+      <Name>SOUND\Gear3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear3.xnb</Output>
+      <Time>2010-04-19T05:09:11.8617624+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear3ToGear4.wav</Source>
+      <Name>SOUND\Gear3ToGear4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear3ToGear4.xnb</Output>
+      <Time>2010-04-19T05:09:11.8707629+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear4.wav</Source>
+      <Name>SOUND\Gear4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear4.xnb</Output>
+      <Time>2010-04-19T05:09:11.8827636+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear4ToGear5.wav</Source>
+      <Name>SOUND\Gear4ToGear5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear4ToGear5.xnb</Output>
+      <Time>2010-04-19T05:09:11.8837636+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SOUND\Gear5.wav</Source>
+      <Name>SOUND\Gear5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\SOUND\Gear5.xnb</Output>
+      <Time>2010-04-19T05:09:11.7387553+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\MODEL\SL500\SL500_0.xml</Output>
+      <Time>2010-03-16T18:52:55.8067717+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 MISC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.7187667+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\plate.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\plate_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.5507571+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BRAKELIGHT.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BRAKELIGHT_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.5897593+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DOORLINE.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DOORLINE_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.5117549+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 BADGING.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 BADGING_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.5877592+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BOTTOM.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BOTTOM_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.3267443+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 MISC MIRROR.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 MISC MIRROR_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.6987656+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\BRAKDISC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\BRAKDISC_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.3807474+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\DRIVER.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\DRIVER_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.5347562+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 HEADLIGHT.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 HEADLIGHT_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.6377621+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 INTERIOR.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 INTERIOR_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.6827646+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TREAD.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TREAD_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.9327789+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\TIRE.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\TIRE_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.9027772+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\SL500\SL500 TIRE.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\SL500\SL500 TIRE_0.xnb</Output>
+      <Time>2010-03-16T18:52:55.7747699+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\DOME\dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\MODEL\DOME\dome_0.xml</Output>
+      <Time>2010-03-16T18:53:36.0730748+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MODEL\DOME\cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\MODEL\DOME\cloudMap_0.xnb</Output>
+      <Time>2010-03-16T19:03:18.1403672+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chan\Desktop\ExiaProject\ExiaProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-02-04T18:06:02.6149829+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

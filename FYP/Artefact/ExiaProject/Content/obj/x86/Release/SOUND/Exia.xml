@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Engine">Wave Bank
+{
+    Name = Engine;
+    Xbox File = Xbox\Engine.xwb;
+    Windows File = Win\Engine.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3498006175;
+    Bank Last Revised High = 30072761;
+
+    Wave
+    {
+        Name = Gear1;
+        File = Gear1.wav;
+        Build Settings Last Modified Low = 2922393252;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 376448;
+            Loop Region Offset = 0;
+            Loop Region Length = 376448;
+            File Type = 1;
+            Last Modified Low = 285412166;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear1ToGear2;
+        File = Gear1ToGear2.wav;
+        Build Settings Last Modified Low = 2922393252;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 222492;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 285432167;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear2;
+        File = Gear2.wav;
+        Build Settings Last Modified Low = 2922403253;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 285452168;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear2ToGear3;
+        File = Gear2ToGear3.wav;
+        Build Settings Last Modified Low = 2922403253;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 239904;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 285792188;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear3;
+        File = Gear3.wav;
+        Build Settings Last Modified Low = 2922413253;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 286002200;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear3ToGear4;
+        File = Gear3ToGear4.wav;
+        Build Settings Last Modified Low = 2922413253;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 228340;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 286092205;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear4;
+        File = Gear4.wav;
+        Build Settings Last Modified Low = 2922413253;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 375936;
+            Loop Region Offset = 0;
+            Loop Region Length = 375936;
+            File Type = 1;
+            Last Modified Low = 286212212;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear4ToGear5;
+        File = Gear4ToGear5.wav;
+        Build Settings Last Modified Low = 2922423254;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 220200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 286222212;
+            Last Modified High = 30072694;
+        }
+    }
+
+    Wave
+    {
+        Name = Gear5;
+        File = Gear5.wav;
+        Build Settings Last Modified Low = 2922423254;
+        Build Settings Last Modified High = 30072761;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 357576;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 284772129;
+            Last Modified High = 30072694;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
